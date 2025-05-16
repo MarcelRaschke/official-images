@@ -2,5 +2,5 @@ Maintainers: William Douglas <william.douglas@intel.com> (@bryteise)
 GitRepo: https://github.com/clearlinux/docker-brew-clearlinux.git
 
 Tags: latest, base
-GitCommit: afc50176ee4a6effaa12831b24ea46a96283d107
-GitFetch: refs/heads/base-43280
+GitCommit: 536de2f889e63dbc411cfd408bc57c41f4a8bad2
+GitFetch: refs/heads/base-43410
